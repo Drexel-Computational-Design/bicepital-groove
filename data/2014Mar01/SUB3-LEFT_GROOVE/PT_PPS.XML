@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<Patient_PPS SonoVersion="003.004" Schema="0x83000001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PT_PPS.XSD">
+   <PossiblyLocked>true</PossiblyLocked>
+   <AccessionNumber/>
+   <PatientsName>SUB 3 GROOVE^LEFT</PatientsName>
+   <PatientID>(_No_ID_)</PatientID>
+   <OtherPatientIDs/>
+   <PatientsBirthDate/>
+   <PatientsSex> </PatientsSex>
+   <PatientsSize/>
+   <PatientsWeight/>
+   <AdditionalPatientHistory/>
+   <EthnicGroup> </EthnicGroup>
+   <ReferringPhysiciansName/>
+   <StudyInstanceUID/>
+   <SonoStudyInstanceUID>1.2.840.114340.03.000008251017097011.1.20140301.074215.0000172</SonoStudyInstanceUID>
+   <StudyID>1</StudyID>
+   <NameofPhysiciansReadingStudy/>
+   <StudyDate>20140301</StudyDate>
+   <StudyTime>074215</StudyTime>
+   <PpsID>SONOPPS0000172</PpsID>
+   <PpsDescription/>
+   <PpsStartDate>20140301</PpsStartDate>
+   <PpsStartTime>074215</PpsStartTime>
+   <OperatorsName/>
+   <SeriesInstanceUID>1.2.840.114340.03.000008251017097011.2.20140301.074215.0000172</SeriesInstanceUID>
+   <SRSeriesInstanceUID>1.2.840.114340.03.000008251017097011.5.20140301.074215.0000172</SRSeriesInstanceUID>
+   <SeriesDate>20140301</SeriesDate>
+   <SeriesTime>074215</SeriesTime>
+   <SoftwareVersions>51.80.107.004</SoftwareVersions>
+   <InstitutionName/>
+   <LastMenstrualDate/>
+   <SonoMetadata>
+      <PatientInstanceUID>0000082510170970110000131</PatientInstanceUID>
+      <ExamName>Msk</ExamName>
+      <NumFetus>0</NumFetus>
+      <EstimatedDueDate/>
+      <IsLmpByEdd>FALSE</IsLmpByEdd>
+      <ExamIndex>9</ExamIndex>
+      <BSAHeightCm>0.000000</BSAHeightCm>
+      <BSAWeightKg>0.000000</BSAWeightKg>
+      <BSAUnits>1</BSAUnits>
+      <ExamIndexHR>-1</ExamIndexHR>
+      <StartType>2</StartType></SonoMetadata>
+   <RpID/></Patient_PPS>
